@@ -1,0 +1,14 @@
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\bin\Debug\netcoreapp2.1\BattleFieldBackEnd.deps.json
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\bin\Debug\netcoreapp2.1\BattleFieldBackEnd.runtimeconfig.json
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\bin\Debug\netcoreapp2.1\BattleFieldBackEnd.runtimeconfig.dev.json
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\bin\Debug\netcoreapp2.1\BattleFieldBackEnd.dll
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\bin\Debug\netcoreapp2.1\BattleFieldBackEnd.pdb
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.csprojAssemblyReference.cache
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.csproj.CoreCompileInputs.cache
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.RazorAssemblyInfo.cache
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.RazorAssemblyInfo.cs
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.AssemblyInfoInputs.cache
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.AssemblyInfo.cs
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.RazorTargetAssemblyInfo.cache
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.dll
+D:\BattleShip\Backend\BattleFieldBackEnd\BattleFieldBackEnd\obj\Debug\netcoreapp2.1\BattleFieldBackEnd.pdb
